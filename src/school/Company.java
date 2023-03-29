@@ -36,7 +36,7 @@ package school;
         public void setPhoneNumber(String phoneNumber) {
             this.phoneNumber = phoneNumber;
         }
-        public void register(){
+        public static  void register(){
             System.out.println("Зарегистрироваться?");
         }
 
