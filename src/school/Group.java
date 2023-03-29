@@ -30,11 +30,6 @@ public class Group extends Company{
     }
 
     @Override
-    public void register() {
-        super.register();
-    }
-
-    @Override
     public String toString() {
         return "Group: " +
                 "groupName: " + groupName + '\'' +

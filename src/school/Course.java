@@ -23,11 +23,6 @@ package school;
         public String getJavaJS() {
             return JavaS;
         }
-
-        public void setJavaJS(String javaJS) {
-            JavaS = javaJS;
-        }
-
-
     }
+
 
