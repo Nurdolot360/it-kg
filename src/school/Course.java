@@ -24,10 +24,8 @@ package school;
             return JavaS;
         }
 
-        public void setJavaJS(String javaJS) {
-            JavaS = javaJS;
+        public void setJavaJS(String javaJS) {JavaS = javaJS;
         }
-
 
     }
 
